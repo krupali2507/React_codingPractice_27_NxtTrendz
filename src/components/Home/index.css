@@ -1,0 +1,35 @@
+/* Write your CSS code here */
+
+.bg-container {
+  display: flex;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 20px;
+  font-family: 'Roboto';
+}
+
+.home-content-container {
+  width: 80%;
+}
+
+.home-heading {
+  font-size: 60px;
+}
+
+.home-page-content {
+  font-size: 25px;
+  color: #475569;
+}
+
+.inner-content-container {
+  width: 700px;
+}
+
+.shopNow-btn {
+  background-color: #0967d2;
+  padding: 20px;
+  border-radius: 8px;
+  min-width: 100px;
+  color: #ffffff;
+  font-size: 20px;
+}

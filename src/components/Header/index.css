@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.navbar-container {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.nav-link-container {
+  display: flex;
+}
+
+.header-logo {
+  width: 130px;
+  height: 50px;
+}
+
+.link {
+  font-size: 20px;
+  color: #475569;
+  margin-right: 20px;
+  list-style: none;
+}
+
+.logout-btn {
+  background-color: #0967d2;
+  color: #ffffff;
+  font-size: 20px;
+  min-height: 20px;
+  border-radius: 8px;
+  padding: 10px;
+}
